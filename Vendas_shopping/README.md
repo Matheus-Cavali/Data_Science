@@ -38,13 +38,13 @@ As tabelas foram processadas e unificadas no pandas para facilitar as análises.
 ## 📈 Gráficos e insights
 
 ### 🏬 Total vendido por shopping
-![Total vendido](Vendas_shopping/grafico_total_vendas_shopping/image.png)
+![Total vendido](grafico_total_vendas_shopping/image.png)
 
 ### 💰 Ticket médio por shopping
 ![Ticket médio](grafico_ticket_medio_shopping/image.png)
 
 ### 📅 Total vendido por mês
-![Total por mês](Vendas_shopping/grafico_total_vendas_mes/image.png)
+![Total por mês](grafico_total_vendas_mes/image.png)
 
 ---
 
