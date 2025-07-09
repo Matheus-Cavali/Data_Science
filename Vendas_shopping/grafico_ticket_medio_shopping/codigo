@@ -1,0 +1,8 @@
+# Fazendo grafico de ticket médio por shopping
+ticket_medio.plot(kind='bar', figsize=(10,5), color='Coral')
+plt.title('Ticket médio por shopping')
+plt.ylabel('Valor total em R$')
+plt.xlabel('ID Loja')
+plt.xticks(rotation=90)
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.show()
