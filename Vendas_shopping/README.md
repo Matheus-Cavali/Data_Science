@@ -44,7 +44,7 @@ As tabelas foram processadas e unificadas no pandas para facilitar as análises.
 ![Ticket médio](grafico_ticket_medio_shopping/image.png)
 
 ### 📅 Total vendido por mês
-![Total por mês](grafico_total_vendas_mes/image.png)
+![Total por mês](/grafico_total_vendas_mes/image.png)
 
 ---
 
