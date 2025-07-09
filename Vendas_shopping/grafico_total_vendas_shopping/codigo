@@ -1,0 +1,11 @@
+# Gerando grafico de barras horizontais para melhor visualizar o total de vendas por shopping em ordem crescente
+plt.figure(figsize=(12,8))
+plt.barh(valor_total_shopping['ID Loja'], valor_total_shopping['Valor Final'], color='lightgreen')
+plt.title('Total vendido por shopping')
+plt.xlabel('Valor total vendido (R$)')
+plt.ylabel('Shopping')
+plt.grid(axis='x', linestyle='--', alpha=0.7)
+# Colocar os valores no final de cada barra
+for index, value in enumerate(valor_total_shopping['Valor Final']):
+    plt.text(value + 5000, index, f'R$ {value:,.0f}', va='center', fontsize=11)
+plt.show()
