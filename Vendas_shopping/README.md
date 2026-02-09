@@ -56,28 +56,6 @@ As tabelas foram processadas e unificadas no pandas para facilitar as análises.
 
 ---
 
-## 🙋 Sobre mim
-
-Sou estudante de **Sistemas de Informação**, aprendendo **Ciência de Dados por conta própria**, buscando me preparar para oportunidades na área.
-
-📫 [Meu LinkedIn](https://www.linkedin.com/in/matheus-cavali-2b6306348)  
-📌 GitHub: [Matheus-Cavali](https://github.com/Matheus-Cavali)
-
----
-
-## 🔥 Próximos passos
-
-- Aprender seaborn para gráficos mais profissionais
-- Criar dashboards interativos no Power BI
-- Explorar outros datasets maiores e mais complexos
-
----
-
 ## 🚀 Observação final
 
-Este projeto faz parte do meu **portfólio de estudos**, focando no desenvolvimento prático das minhas habilidades em análise de dados.
-
-Fico muito feliz com feedbacks ou sugestões para melhorar!
-
----
-
+Este projeto faz parte do meu **portfólio de estudos**, focando no desenvolvimento prático das minhas habilidades.
